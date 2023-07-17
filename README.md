@@ -1,2 +1,2 @@
 # Income_Tracker
-This will help us tob track our income and expenditure report
+This will help us to track our income and expenditure month wise
